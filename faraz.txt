@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-three
-=====
-1
->>>>>>> ce6f325f (add 1)
+talha
