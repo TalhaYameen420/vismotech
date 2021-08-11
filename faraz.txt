@@ -1,11 +1,1 @@
-<<<<<< HEAD
-faraz
-=======
-talha
->>>>>>> f4e1cba28520ebf30672bf4118d0bad8ceb1c02b
-rahat
-<<<<<<< HEAD
-1
-======
-2
->>>>>> fc24b40f (2)
+three
